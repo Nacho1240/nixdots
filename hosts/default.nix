@@ -72,4 +72,4 @@ in
   builtins.listToAttrs (map (host: {
     name = "${host}";
     value = mkHost host;
-  }) ["pc" "laptop"])
+  }) ["laptop"])

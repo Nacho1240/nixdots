@@ -63,9 +63,9 @@
     self,
     ...
   } @ inputs: let
-    username = "diegopyl";
-    userfullname = "Diego Peña y Lillo";
-    useremail = "diegopyl1209@gmail.com";
+    username = "Sr Pingu";
+    userfullname = "Damian Elizondo";
+    useremail = "damian.elizondo.a@gmail.com";
 
     system = "x86_64-linux";
 

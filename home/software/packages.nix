@@ -57,10 +57,12 @@
     # Gui apps
     # authy
     firefox
+    alacritty
+    wireshark
+    nitch
     gnumake
     chromium
     element-desktop
-    zoom-us
     qdirstat
     mpv
     libreoffice
@@ -91,7 +93,7 @@
     # gnumake
     gh
     icu74
-    jdk17
+    jdk21
     filezilla
     docker
     docker-compose
